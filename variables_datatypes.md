@@ -17,13 +17,5 @@ Also there are different data types that variables get assigned to.
 
 I practiced these data types and writing code using basic input/output code and arithmetic operations.
 for example : 
-#include <stdio.h>
-int main() {
-    float P, a;
-    scanf("%g %g", &P,&a);
-    float b = (P/2.) - a;
-    printf("Krastine a: %d\n", (long long) a);
-    printf("Krastine b: %g\n", b);
-    printf("Plotas: %g\n", b*a);
-    return 0;
-}
+[solution.cpp](https://github.com/user-attachments/files/32777917/solution.cpp),
+[solution2.cpp](https://github.com/user-attachments/files/32777931/solution2.cpp)
