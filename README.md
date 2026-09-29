@@ -5,6 +5,6 @@ C  programming language journey
 - variables and data types
 - operators
 - conditions and loops
-
+- control statements and functions
 ## Projects
 - none
