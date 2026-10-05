@@ -14,5 +14,8 @@ we use functions to:
 return type and function type has to match. Function could be of _void_ data type.
 ### Function prototype
 type *function_name* (Argument list){ code block };
+## Modificators
+1. *Inline*
+   - inserts function code into program code for overall faster program runtime
 ## Practice
 - none
