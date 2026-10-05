@@ -10,5 +10,9 @@ we use functions to:
 - have clear algorithm structure
 - partition a program
 - easily use a part of a program several times
+
+return type and function type has to match. Function could be of _void_ data type.
+### Function prototype
+type *function_name* (Argument list){ code block };
 ## Practice
 - none
