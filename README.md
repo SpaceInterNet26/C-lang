@@ -1,5 +1,5 @@
 # C-lang
-C  programming language journey
+C  programming language learning journey
 
 ## Topics learned
 - variables and data types
