@@ -6,5 +6,6 @@ C  programming language journey
 - operators
 - conditions and loops
 - control statements and functions
+- arrays
 ## Projects
 - none
