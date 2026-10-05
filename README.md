@@ -1,11 +1,7 @@
-# C-lang
-C  programming language learning journey
+# C LANGUAGE PROJECTS
+In here I have all projects containing c language
 
-## Topics learned
-- variables and data types
-- operators
-- conditions and loops
-- control statements and functions
-- arrays
-## Projects
-- none
+- [x] Random Number Guessing Game
+- [ ] Student grade manager
+- [ ] ATM simulator
+- [ ] 
