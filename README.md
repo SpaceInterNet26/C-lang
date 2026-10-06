@@ -7,5 +7,3 @@ C  programming language learning journey
 - conditions and loops
 - control statements and functions
 - arrays
-## Projects
-- none
