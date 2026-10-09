@@ -3,6 +3,7 @@ In here I have all projects containing c language
 
 - [x] Random Number Guessing Game
 - [x] Number conversion program 
-- [ ] Student grade manager
+- [x] Student grade manager
 - [ ] ATM simulator
-- [ ] 
+- [ ] Password strength checker
+- [ ] Text-based RPG
