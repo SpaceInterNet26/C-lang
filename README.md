@@ -5,5 +5,5 @@ In here I have all projects containing c language
 - [x] Number conversion program 
 - [x] Student grade manager
 - [ ] ATM simulator
-- [ ] Password strength checker
+- [x] Password strength checker
 - [ ] Text-based RPG
