@@ -17,9 +17,9 @@ stored in rows.
 variable - memory segment that has a name. A computer reaches its memory thru addresses, not names. that is where pointers come into play.
 A pointer is a variable which holds memory address. We can say a pointer points to a variable, whose address its holding.
 pointer is defined similar to a variable, for example, int *ptr.
-& - brings back variables address.
-* - de-referencing operator.
-
+'&'- brings back variables address.
+'*'- de-referencing operator.
+if used on an array, pointer will point at the first element. For array calling into functions mostly pointers are used.
 ## Main rules for pointers usage
 - defining a pointer '*' is written before its name.
 - wanting to get variables address, write '&' before variables name.
