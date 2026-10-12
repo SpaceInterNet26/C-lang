@@ -6,4 +6,4 @@ C  programming language learning journey
 - operators
 - conditions and loops
 - control statements and functions
-- arrays
+- arrays, pointers and references
