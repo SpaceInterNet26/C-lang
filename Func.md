@@ -12,6 +12,10 @@ we use functions to:
 - easily use a part of a program several times
 
 return type and function type has to match. Function could be of _void_ data type.
+Data for functions is given thru:
+1. copying definitions
+2. using pointers
+3. using references
 ### Function prototype
 type *function_name* (Argument list){ code block };
 ## Modificators
